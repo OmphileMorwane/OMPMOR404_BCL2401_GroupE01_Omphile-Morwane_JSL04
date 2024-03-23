@@ -5,4 +5,4 @@ In each of these challenges, the ternary operator is used to decide between two 
 
 ## Learning outcome:
 
-I gained praxctical experience in structuring code to achieve specific goals and effectively manage various scenarios using ternary operators in conditional statements. I learned that ternary operators are the shorthand for expressing conditional logic and one needs to be careful using ternary operators as they can be tideous for complex statements. It is advisable to use them for simple statements.
+I gained practical experience in structuring code to achieve specific goals and effectively manage various scenarios using ternary operators in conditional statements. I learned that ternary operators are the shorthand for expressing conditional logic and one needs to be careful using ternary operators as they can be tideous for complex statements. It is advisable to use them for simple statements.
